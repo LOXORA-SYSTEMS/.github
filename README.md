@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LOXORA-SYSTEMS/.github/main/profile/banner.svg" alt="LOXORA SYSTEMS" width="100%"/>
+<img src="https://raw.githubusercontent.com/LOXORA-SYSTEMS/.github/main/banner.svg" alt="LOXORA SYSTEMS" width="100%"/>
 
 <br/>
 
